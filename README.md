@@ -86,8 +86,8 @@ zsh Install.command
 ### Option B: clone with Git
 
 ```sh
-git clone https://github.com/SubaashNair/simuulator_bridge.git
-cd simuulator_bridge
+git clone https://github.com/SubaashNair/simulator_bridge.git
+cd simulator_bridge
 node install.mjs
 ```
 
