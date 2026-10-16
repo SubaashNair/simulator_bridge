@@ -1,0 +1,9 @@
+node_modules/
+vendor/
+.npm-cache/
+.DS_Store
+*.log
+.mcp.json
+.mcp.json.backup-*
+docs/client-configurations.json
+docs/doctor-result.json
